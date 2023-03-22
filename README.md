@@ -25,3 +25,5 @@ Priveleges given to admin:
 Priveleges given to student:
 - View all the upcoming events
 - Search for a specific event
+
+mmmmmmmmmm
